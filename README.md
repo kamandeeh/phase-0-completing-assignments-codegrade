@@ -200,7 +200,7 @@ you're in the correct directory, the output should look like:
 $ pwd
 /Users/<your-user-name>/Development/code/se-prep/phase-0-completing-assignments-codegrade
 ```
-
+evelopment
 If you're not already in the root, `cd` into it.
 
 ```console
